@@ -4,7 +4,7 @@ This repository contains the code and related resources of the paper OpenStreetM
 
 ## System Structure
 <div align="center">
-  <p align="center"><img src=RACOMM/resources/system_structure_hires.jpg alt="animated"  width="800"/></p>
+  <p align="center"><img src=RACOMM/resources/system_structure_hires.png alt="animated"  width="800"/></p>
 </div>
 
 ## Recent Result in KAIST 03 of MulRan dataset
